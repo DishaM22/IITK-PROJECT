@@ -1,0 +1,2 @@
+# IITK-PROJECT
+Here is our group project on "AI BASED GROCESARY LIST GENERATOR".
